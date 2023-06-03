@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-Form1",
+      "appliesTo": "WaNNaCRYP0/Form1.cs",
+      "type": "launch"
+    }
+  ]
+}
